@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Resource 한글</string>
+    <string name="text_mode">가로 모드</string>
+    <string name="text_image">도라에몽\n도라미</string>
+</resources>

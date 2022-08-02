@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Resource</string>
+    <string name="text_mode">Horizontal Mode</string>
+    <string name="text_image">Doraemon\nDorami</string>
+</resources>

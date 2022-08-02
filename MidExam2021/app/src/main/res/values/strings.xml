@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Smart App Programming 2021</string>
+    <string name="digimon_adventure">Digimon Adventure</string>
+    <string name="digi_destined">DigiDestined</string>
+    <string name="digimon">Digimon</string>
+    <string name="message">Move to the top</string>
+    <string name="courage">COURAGE</string>
+    <string name="friendship">FRIENDSHIP</string>
+    <string name="love">LOVE</string>
+    <string name="knowledge">KNOWLEDGE</string>
+    <string name="purity">PURITY</string>
+    <string name="honesty">HONESTY</string>
+    <string name="hope">HOPE</string>
+    <string name="light">LIGHT</string>
+    <string name="taichi">Yagami Taichi</string>
+    <string name="yamato">Ishida Yamato</string>
+    <string name="sora">Takenocuchi Sora</string>
+    <string name="koshiro">Izumi Koshiro</string>
+    <string name="mimi">Tachikawa Mimi</string>
+    <string name="joe">Kido Joe</string>
+    <string name="takeru">Takaishi Takeru</string>
+    <string name="hikari">Yagami Hikari</string>
+    <string name="agumon">Agumon</string>
+    <string name="gabumon">Gabumon</string>
+    <string name="piyomon">Piyomon</string>
+    <string name="tentomon">Tentomon</string>
+    <string name="palmon">Palmon</string>
+    <string name="gomamon">Gomamon</string>
+    <string name="patamon">Patamon</string>
+    <string name="gatomon">Gatomon</string>
+</resources>

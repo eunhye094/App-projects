@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">스마트 앱 프로그래밍 2021년</string>
+    <string name="digimon_adventure">디지몬 어드벤처</string>
+    <string name="digi_destined">선택받은 아이들</string>
+    <string name="digimon">디지몬</string>
+    <string name="message">맨 위로 이동</string>
+    <string name="courage">용기</string>
+    <string name="friendship">우정</string>
+    <string name="love">사랑</string>
+    <string name="knowledge">지식</string>
+    <string name="purity">순수</string>
+    <string name="honesty">성실</string>
+    <string name="hope">희망</string>
+    <string name="light">빛</string>
+    <string name="taichi">신태일</string>
+    <string name="yamato">매튜</string>
+    <string name="sora">한소라</string>
+    <string name="koshiro">장한솔</string>
+    <string name="mimi">이미나</string>
+    <string name="joe">정석</string>
+    <string name="takeru">리키</string>
+    <string name="hikari">신나리</string>
+    <string name="agumon">아구몬</string>
+    <string name="gabumon">파피몬</string>
+    <string name="piyomon">피요몬</string>
+    <string name="tentomon">텐타몬</string>
+    <string name="palmon">팔몬</string>
+    <string name="gomamon">쉬라몬</string>
+    <string name="patamon">파닥몬</string>
+    <string name="gatomon">가트몬</string>
+</resources>
